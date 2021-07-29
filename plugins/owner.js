@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham - http://Wa.me/+919400374036*\n* *\n🔰instagram:- https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎*ANJALI BOT*😎═════╗*\n           \n*⚜═Anjali═⚜*\n\n*owner *TOXIDE-SER* - http://Wa.me/+919048329892*\n* *\n🔰instagram:- https://youtube.com/c/TOXIDE GAMER*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: TOXIDE-SER*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Anjali Owner TOXIDE-SER═💥*\n\n*💘 https://github.com/TOXIDE-SER/Anjali*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎*ANJALI BOT*😎═════╗*\n           \n*⚜═Anjali═⚜*\n\n*owner *TOXIDE-SER* - http://Wa.me/+919048329892*\n* *\n🔰Youtube: https://youtube.com/c/TOXIDE-SER*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: TOXIDE-SER*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Anjali Owner TOXIDE-SER═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
