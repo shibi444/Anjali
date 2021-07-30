@@ -72,7 +72,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/TOXIDE-SER/Anjali
-$ cd pikachu
+$ cd Anjali
 $ chmod +x *
 $ npm i
 $ node qr.js
