@@ -1,6 +1,6 @@
 {
-    "name": "Sophia bgm bot",
-    "description": "Sophia project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "Anjali bgm bot",
+    "description": "Anjali project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.imgur.com/PwDQti2.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnalplk/pikachu",
@@ -15,7 +15,7 @@
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false,
-            "value": "919207866848,0"
+            "value": "false"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
