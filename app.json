@@ -112,13 +112,13 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "ENIKK JEEVAN IND
-"
+            "value": "ENIKK JEEVAN IND MWONU BOT CODED BY *TOXIDE SER*https://wa.me/919048329892"
+
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "IRANGI PODA GROUPIL NINN"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
@@ -133,12 +133,12 @@
         "PROMOTE_MESSAGE": {
             "description": "Customizable Promote Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "CONGRATS NOW YOU ARE AN ADMIN"
         },
         "DEMOTE_MESSAGE": {
             "description": "Customizable Demote Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "SORRY YOU ARE NOW NOT AN ADMIN"
         },
         "AFK_MESSAGE": {
             "description": "Customizable AFK Message! Use => default, to change back.",
