@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎*ANJALI BOT*😎═════╗*\n           \n*⚜═Anjali═⚜*\n\n*owner *TOXIDE-SER* - http://Wa.me/+919048329892*\n* *\n🔰instagram:- https://youtube.com/c/TOXIDE GAMER*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: TOXIDE-SER*"
+    r_text[1] = "*╔═════😎*ANJALI BOT*😎═════╗*\n           \n*⚜═Anjali═⚜*\n\n*owner *TOXIDE-SER* - http://Wa.me/+919048329892*\n* *\n🔰instagram:- https://youtube.com/channel/UCFvZBQ-IAKNKLLiyseXczzg*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: TOXIDE-SER*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎*ANJALI BOT*😎═════╗*\n           \n*⚜═Anjali═⚜*\n\n*owner *TOXIDE-SER* - http://Wa.me/+919048329892*\n* *\n🔰Youtube: https://youtube.com/c/TOXIDE-SER*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: TOXIDE-SER*"
+    r_text[1] = "*╔═════😎*ANJALI BOT*😎═════╗*\n           \n*⚜═Anjali═⚜*\n\n*owner *TOXIDE-SER* - http://Wa.me/+919048329892*\n* *\n🔰Youtube: https://youtube.com/channel/UCFvZBQ-IAKNKLLiyseXczzg*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: TOXIDE-SER*"
 
     
 
