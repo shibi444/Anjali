@@ -80,6 +80,16 @@ $ node qr.js
 $ node bot.js
 ```
 
+## Special Thanks To
+
+* [ KILLADY TOXIDE FFC ](http://TOXIDE-SER.github.io) 
+
+## Sosmed
+
+* [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)
+
+* [`WhatsApp Admin`](http://wa.me/919048329892)
+
 
 ### ⚠️ Warning! 
 ```
