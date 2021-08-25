@@ -80,11 +80,11 @@ $ node qr.js
 $ node bot.js
 ```
 
-## Special Thanks To
+## BOT CODED AND PUBLISHED BY TOXIDE-SER ©2021
 
 * [ KILLADY TOXIDE FFC ](http://TOXIDE-SER.github.io) 
 
-## Sosmed
+## CONTACT ME
 
 * [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)
 
