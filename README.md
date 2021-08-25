@@ -86,7 +86,7 @@ $ node bot.js
 
 ## CONTACT ME
 
-* [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)
+* [`Instagram admin`](https://www.instagram.com/mind_have_changed?r=nametag)
 
 * [`WhatsApp Admin`](http://wa.me/919048329892)
 
