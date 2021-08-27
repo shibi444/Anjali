@@ -82,7 +82,7 @@ $ node bot.js
 
 ## BOT CODED AND PUBLISHED BY TOXIDE-SER ©2021
 
-* [ KILLADY TOXIDE FFC ](http://TOXIDE-SER.github.io) 
+* [ KILLADY TOXIDE FFC ](http://wa.me/919048329892) 
 
 ## CONTACT ME
 
